@@ -1,0 +1,10 @@
+<archetype-catalog>
+    <archetypes>
+       	 <archetype>
+ 	   <groupId>br.com</groupId>
+	   <artifactId>springarchetype-archetype</artifactId>
+	   <version>1.0.0-BUILD-SNAPSHOT</version>
+	   <description>Spring archetype</description>
+        </archetype>   	 
+    </archetypes>
+</archetype-catalog>
